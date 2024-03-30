@@ -1,1 +1,3 @@
-Thi is a sample file for demo of branching
+This is a sample file for demo of branching.
+
+This is again a sentence for showing it is a git repository.
